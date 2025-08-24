@@ -1,6 +1,6 @@
 # MCP Fiscal
 
-Projeto para converter leis tributárias brasileiras em regras computáveis (Machine-Computable Policies).
+Projeto para converter leis tributárias brasileiras em regras computáveis, usando MCP (Model Context Protocol).
 
 ## Objetivo
 Facilitar a automatização e simulação da aplicação de leis fiscais.
