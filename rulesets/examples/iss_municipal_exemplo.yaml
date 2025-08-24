@@ -1,0 +1,3 @@
+id: iss_exemplo
+meta: {jurisdicao: Exemplo, norma: Lei X, fonte: http://example.com, vigencia: {inicio: 2020-01-01, fim: null}}
+rules: []
